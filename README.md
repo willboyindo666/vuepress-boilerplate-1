@@ -22,6 +22,12 @@ You can also generate the static assets using the following command.
 
 npm run docs:build
 ```
+If you have vuepress ? cli installed
+
+$ npm install -g vuepress
+....
+
+
 
 For more information, see [VuePress Docs](https://vuepress.vuejs.org)
 

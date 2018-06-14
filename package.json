@@ -4,14 +4,22 @@
     "description": "Starter template for a VuePress site",
     "author": "Wilfried Ifland <info@gmail.com>",
     "license": "MIT",
+    
     "scripts": {
       "build": "vuepress build",
-      "test": "rm -rf .vuepress/dist && npm run build && stat .vuepress/dist/index.html"
+      "test": "rm -rf .vuepress/dist && npm run build && stat .vuepress/dist/index.html",
+      "clean": "rimraf dist/*",
+      "dev": "vuepress dev docs",
+      "build": "vuepress build docs"
     },
+    
     "devDependencies": {
       "vuepress": "^0.10.0"
     },
     "dependencies": {
-      "npm": "^5.8.0"
+      "npm": "^5.8.0",
+      "markdown-it": "^8.4.1",
+      "markdown-it-emoji": "^1.4.0",
+      "markdown-it-katex": "^2.0.3"
     }
   }

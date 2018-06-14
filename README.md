@@ -16,7 +16,12 @@ To try it out locally, clone this repo and generate a static site
 git clone https://github.com/iwilfried/vuepress-boilerplate
 cd vuepress-boilerplate
 npm install
-npm run build
+npm run docs:dev
+
+You can also generate the static assets using the following command.
+
+npm run docs:build
 ```
 
 For more information, see [VuePress Docs](https://vuepress.vuejs.org)
+

@@ -16,7 +16,6 @@
       "vuepress": "^0.10.1"
     },
     "dependencies": {
-      "npm": "^5.8.0"
       "markdown-it": "^8.4.1",
       "markdown-it-emoji": "^1.4.0",
       "markdown-it-katex": "^2.0.3"

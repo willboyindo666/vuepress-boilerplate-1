@@ -6,11 +6,9 @@
     "license": "MIT",
     
     "scripts": {
-        
-      "test": "rm -rf .vuepress/dist && npm run build && stat .vuepress/dist/index.html",
       "clean": "rimraf dist/*",
-      "dev": "vuepress dev docs",
-      "build": "vuepress build docs"
+      "dev": "vuepress dev",
+      "build": "vuepress build"
     },
     
     "devDependencies": {

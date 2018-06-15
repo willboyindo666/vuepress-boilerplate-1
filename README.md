@@ -15,19 +15,13 @@ To try it out locally, clone this repo and generate a static site
 ```bash
 git clone https://github.com/iwilfried/vuepress-boilerplate
 cd vuepress-boilerplate
-npm install
-npm run docs:dev
+yarn or yarn install
+yarn dev
 
 You can also generate the static assets using the following command.
 
-npm run docs:build
+yarn build
 ```
-If you have vuepress ? cli installed
-
-$ npm install -g vuepress
-....
-
-
 
 For more information, see [VuePress Docs](https://vuepress.vuejs.org)
 

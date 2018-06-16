@@ -12,7 +12,7 @@ on this server.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iwilfried/vuepress-boilerplate)
 
-Other free server deployments like GitHub, Firebase, Heroku you can find under 
+Documentation of other free server deployments like GitHub, Firebase, Heroku you can find under 
 [vuepress.vuejs.org/guide/deploy](https://vuepress.vuejs.org/guide/deploy.html)
 
 ## Local Development

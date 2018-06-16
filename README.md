@@ -1,9 +1,12 @@
 # VuePress-Start
 
-*Starter template for a [VuePress](https://vuepress.vuejs.org) site*
+*Starter template for a [VuePress](https://vuepress.vuejs.org) site*  
 
-If you want a copy of this base template in your Github Account and a life free version on a Netlify server,
-than use the One-click Deploy
+## Quickstart 
+
+Use the One-click deploy button and get a copy of this base template in your GitHub account and
+a live-server version on Netlify for free. Every change in the GitHub README.md file will automatically make change 
+on the server.
 
 ## One-click Deploy
 

@@ -4,17 +4,16 @@
 
 ## Quickstart 
 
-Use the One-click deploy button and get a copy of this base template in your GitHub account and
-a live-server version on Netlify for free. Every change in the GitHub README.md file will automatically make change 
-on the server.
+Use the one-click deploy button and get a copy of this base-template in your GitHub Account and additionally
+a live-server version on Netlify for free. Every change in the GitHub README.md file will automatically cause a change 
+on this server.
 
 ## One-click Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/iwilfried/vuepress-boilerplate)
 
-Other free server deployments you can find under 
-
-[Read the documentation](https://vuepress.vuejs.org/guide/deploy.html)
+Other free server deployments like GitHub, Firebase, Heroku you can find under 
+[vuepress.vuejs.org/guide/deploy](https://vuepress.vuejs.org/guide/deploy.html)
 
 ## Local Development
 
